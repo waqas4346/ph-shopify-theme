@@ -1557,5 +1557,16 @@
         "info": "t:settings_schema.cart.settings.cart_drawer.collection.info"
       }
     ]
+  },
+  {
+    "name": "Custom Pixel",
+    "settings": [
+      {
+        "type": "checkbox",
+        "id": "custom_pixel",
+        "default": false,
+        "label": "Enable custom pixel?"
+      }
+    ]
   }
 ]
